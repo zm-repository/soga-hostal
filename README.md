@@ -1,16 +1,42 @@
 # soga_hostal
 
-A new Flutter project.
+Project based on the reservation of rooms for a hostel
 
-## Getting Started
+## AUTH
 
-This project is a starting point for a Flutter application.
+the application has a registration and login module
 
-A few resources to get you started if this is your first Flutter project:
+<table>
+  <tr>
+  <td> Login </td>
+  <td> Register </td>
+  </tr>
+  <tr>
+  <td><img src="https://media.giphy.com/media/YFAfh0KmpuFA9PffMz/giphy.gif" width="222" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></img></td>
+   <td><img src="https://media.giphy.com/media/NtvN1GX3qZh405Ag2J/giphy.gif" width="222" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></img></td>
+ 
+  </tr>
+  </table>
+  
+ ## App Module
+ 
+remember that the app is only in design, provider is used for bottonNavigation navigation since it is personalized
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+<ol>
+  <li>Home module where the rooms and other services will be found</li>
+  <li>As a second navigation we have a favorite of the chosen rooms</li>
+  <li>third navigation we have the reservations that have been made</li>
+  <li>finally the navigation is the profile</li>
+</ol>
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+<table>
+  <tr>
+  <td> Soga Hostal </td>
+  
+  </tr>
+  <tr>
+  <td><img src="https://media.giphy.com/media/nbbPoluFAkYKlk0btV/giphy.gif" width="222" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></img></td>
+   
+  </tr>
+  </table>
